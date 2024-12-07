@@ -1,4 +1,4 @@
-//Singleton Design Pattern
+**//Singleton Design Pattern**
 class Singleton {
     private static Singleton instance;
 
